@@ -2,5 +2,5 @@
 - Buat/perbaiki template untuk bisa dibuat aplikasi agar mudah dicustomisasi
 - tambahkan untuk portofolio
 - Aplikasi pinjam pakai barang BMN
-- Aplikasi Manajemen File?
 - Buat website news management
+- Membuat vlog
