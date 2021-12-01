@@ -1,0 +1,2 @@
+- Konsisten melanjutkan aplikasi Warung dengan Laravel
+- Buat/perbaiki template untuk bisa dibuat aplikasi agar mudah dicustomisasi
