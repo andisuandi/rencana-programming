@@ -4,3 +4,4 @@ Rencana Cabangan
   vector
   GIMP
 - Kuasai video editing
+- Mastering Javascript
