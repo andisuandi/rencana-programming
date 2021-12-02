@@ -8,6 +8,7 @@ Rencana Cabangan
   #Framework Javascript
     ^ Vue
     ^ React
- - Php Framework
+    ^ Angular
+- Php Framework
    Laravel
- Phyton
+- Phyton
