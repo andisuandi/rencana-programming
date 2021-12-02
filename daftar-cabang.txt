@@ -5,7 +5,10 @@ Rencana Cabangan
   GIMP
 - Kuasai video editing
 - Mastering Javascript
-  #Angular
-  #React
-- PHP framework
-  #Laravel
+  #Framework Javascript
+    ^ Vue
+    ^ React
+    ^ Angular
+- Php Framework
+   Laravel
+- Phyton
